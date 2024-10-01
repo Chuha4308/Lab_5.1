@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab_5.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D899B12-5261-4F79-A3EF-3B75C23B5297}|UnitTest2\\UnitTest2.vcxproj|C:\\Users\\Admin\\source\\repos\\Lab_5.1\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D899B12-5261-4F79-A3EF-3B75C23B5297}|UnitTest2\\UnitTest2.vcxproj|solutionrelative:UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BEEE3C0D-D8CF-4CAF-A02A-CD4743168E74}|Lab_5.1\\Lab_5.1.vcxproj|C:\\Users\\Admin\\source\\repos\\Lab_5.1\\Lab_5.1\\Lb_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEEE3C0D-D8CF-4CAF-A02A-CD4743168E74}|Lab_5.1\\Lab_5.1.vcxproj|solutionrelative:Lab_5.1\\Lb_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D899B12-5261-4F79-A3EF-3B75C23B5297}|UnitTest2\\UnitTest2.vcxproj|C:\\Users\\Admin\\source\\repos\\Lab_5.1\\UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D899B12-5261-4F79-A3EF-3B75C23B5297}|UnitTest2\\UnitTest2.vcxproj|solutionrelative:UnitTest2\\UnitTest2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest2.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab_5.1\\UnitTest2\\UnitTest2.cpp",
               "RelativeDocumentMoniker": "UnitTest2\\UnitTest2.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab_5.1\\UnitTest2\\UnitTest2.cpp",
               "RelativeToolTip": "UnitTest2\\UnitTest2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T20:11:22.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Lb_5.1.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab_5.1\\Lab_5.1\\Lb_5.1.cpp",
               "RelativeDocumentMoniker": "Lab_5.1\\Lb_5.1.cpp",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab_5.1\\Lab_5.1\\Lb_5.1.cpp",
               "RelativeToolTip": "Lab_5.1\\Lb_5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T18:00:04.038Z",
               "EditorCaption": ""
